@@ -48,19 +48,15 @@ a {
 }
 
 .current,
-.current: visited; {
-
+.current:visited {
   color: #fff;
-  background: #0074d9;
-
+  background-color: #0074d9;
 }
 
 a:hover,
 a:focus {
-
   color: #fff;
-  background: #0074d9;
-
+  background-color: #0074d9;
 }
 
 @media only screen and (min-width: 38em) {
